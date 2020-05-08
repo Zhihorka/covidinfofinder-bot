@@ -1,0 +1,1 @@
+web: python3 buldiga-master.py
